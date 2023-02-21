@@ -1,0 +1,143 @@
+role|type|frame
+('the dam site', 'role', 0)|ARGM-LOC|the dam site where the river flows onto the Snake River Plain
+('the river', 'role', 0)|ARG1|the dam site where the river flows onto the Snake River Plain
+('onto the Snake River Plain', 'role', 0)|ARGM-DIR|the dam site where the river flows onto the Snake River Plain
+('Teton Canyon', 'role', 0)|ARG1|Teton Canyon ends about six miles below the dam site where the river flows onto the Snake River Plain
+('about six miles below the dam site where the river flows onto the Snake River Plain', 'role', 0)|ARGM-LOC|Teton Canyon ends about six miles below the dam site where the river flows onto the Snake River Plain
+('When', 'role', 1)|ARGM-TMP|When the dam failed
+('the dam', 'role', 1)|ARG1|When the dam failed
+('When the dam failed', 'role', 1)|ARGM-TMP|When the dam failed the flood struck several communities immediately downstream particularly Wilford at the terminus of the canyon Sugar City Salem Hibbard and Rexburg
+('the flood', 'role', 1)|ARG0|When the dam failed the flood struck several communities immediately downstream particularly Wilford at the terminus of the canyon Sugar City Salem Hibbard and Rexburg
+('several communities immediately downstream particularly Wilford at the terminus of the canyon Sugar City Salem Hibbard and Rexburg', 'role', 1)|ARG1|When the dam failed the flood struck several communities immediately downstream particularly Wilford at the terminus of the canyon Sugar City Salem Hibbard and Rexburg
+('Thousands of homes and businesses', 'role', 2)|ARG1|Thousands of homes and businesses destroyed
+('The small agricultural communities of Wilford and Sugar City', 'role', 3)|ARG1|The small agricultural communities of Wilford and Sugar City wiped from the river bank
+('from the river bank', 'role', 3)|ARG2|The small agricultural communities of Wilford and Sugar City wiped from the river bank
+('the eleven deaths', 'role', 4)|ARG1|the eleven deaths attributed to the flood
+('to the flood', 'role', 4)|ARG2|the eleven deaths attributed to the flood
+('Five of the eleven deaths attributed to the flood', 'role', 4)|ARG1|Five of the eleven deaths attributed to the flood occurred in Wilford
+('in Wilford', 'role', 4)|ARGM-LOC|Five of the eleven deaths attributed to the flood occurred in Wilford
+('The similar community of Teton on the south bank of the river', 'role', 5)|ARG1|The similar community of Teton on the south bank of the river largely spared
+('largely', 'role', 5)|ARGM-EXT|The similar community of Teton on the south bank of the river largely spared
+('One Teton resident', 'role', 6)|ARG1|One Teton resident drowned
+('on the river', 'role', 6)|ARGM-LOC|One Teton resident fishing on the river at the time of the dam failure
+('at the time of the dam failure', 'role', 6)|ARGM-TMP|One Teton resident fishing on the river at the time of the dam failure
+('drowned', 'role', 6)|ARG2|One Teton resident was drowned
+('An elderly woman', 'role', 7)|ARG0|An elderly woman living in the city of Teton
+('in the city of Teton', 'role', 7)|ARGM-LOC|An elderly woman living in the city of Teton
+('An elderly woman living in the city of Teton', 'role', 7)|ARG1|An elderly woman living in the city of Teton died as a result of the evacuation
+('as a result of the evacuation', 'role', 7)|ARGM-CAU|An elderly woman living in the city of Teton died as a result of the evacuation
+('structures', 'role', 8)|ARG1|existing structures
+('One estimate', 'role', 8)|ARG0|One estimate placed damage to Hibbard and Rexburg area with a population of about 10 000 at 80 % of existing structures
+('damage', 'role', 8)|ARG1|One estimate placed damage to Hibbard and Rexburg area with a population of about 10 000 at 80 % of existing structures
+('to Hibbard and Rexburg area with a population of about 10 000 at 80 % of existing structures', 'role', 8)|ARG2|One estimate placed damage to Hibbard and Rexburg area with a population of about 10 000 at 80 % of existing structures
+('The Teton River', 'role', 9)|ARG1|The Teton River flows through the industrial commercial and residential districts of north Rexburg
+('through the industrial commercial and residential districts of north Rexburg', 'role', 9)|ARGM-DIR|The Teton River flows through the industrial commercial and residential districts of north Rexburg
+('When', 'role', 11)|ARGM-TMP|When the flood waters hit
+('the flood waters', 'role', 11)|ARG0|When the flood waters hit
+('When the flood waters hit', 'role', 11)|ARGM-TMP|When the flood waters hit thousands of logs washed into town
+('thousands of logs', 'role', 11)|ARG1|When the flood waters hit thousands of logs washed into town
+('into town', 'role', 11)|ARG4|When the flood waters hit thousands of logs washed into town
+('Dozens of logs', 'role', 12)|ARG0|Dozens of logs hit a bulk gasoline storage tank a few hundred yards away
+('a bulk gasoline storage tank', 'role', 12)|ARG1|Dozens of logs hit a bulk gasoline storage tank a few hundred yards away
+('a few hundred yards away', 'role', 12)|ARGM-LOC|Dozens of logs hit a bulk gasoline storage tank a few hundred yards away
+('The gasoline', 'role', 13)|ARG0|The gasoline sent flaming slicks adrift on the racing water
+('flaming slicks', 'role', 13)|ARG1|The gasoline sent flaming slicks adrift on the racing water
+('adrift', 'role', 13)|ARG2|The gasoline sent flaming slicks adrift on the racing water
+('on the racing water', 'role', 13)|ARGM-DIR|The gasoline sent flaming slicks adrift on the racing water
+('lumber', 'role', 14)|ARG1|cut lumber
+('The force of the logs and cut lumber and the subsequent fires', 'role', 14)|ARG0|The force of the logs and cut lumber and the subsequent fires practically destroyed the city
+('practically', 'role', 14)|ARGM-ADV|The force of the logs and cut lumber and the subsequent fires practically destroyed the city
+('the city', 'role', 14)|ARG1|The force of the logs and cut lumber and the subsequent fires practically destroyed the city
+('The flood waters', 'role', 15)|ARG0|The flood waters traveled west along the route of the Henrys Fork of the Snake River around both sides of the Menan Buttes significantly damaging the community of Roberts
+('significantly', 'role', 15)|ARGM-EXT|The flood waters significantly damaging the community of Roberts
+('the community of Roberts', 'role', 15)|ARG1|The flood waters significantly damaging the community of Roberts
+('west along the route of the Henrys Fork of the Snake River around both sides of the Menan Buttes', 'role', 15)|ARG1|The flood waters traveled west along the route of the Henrys Fork of the Snake River around both sides of the Menan Buttes significantly damaging the community of Roberts
+('significantly damaging the community of Roberts', 'role', 15)|ARGM-ADV|The flood waters traveled west along the route of the Henrys Fork of the Snake River around both sides of the Menan Buttes significantly damaging the community of Roberts
+('time', 'role', 16)|ARGM-TMP|time prepare
+('The city of Idaho Falls even further down on the flood plain', 'role', 16)|ARG0|The city of Idaho Falls even further down on the flood plain had time to prepare
+('time to prepare', 'role', 16)|ARG1|The city of Idaho Falls even further down on the flood plain had time to prepare
+('the flood', 'role', 17)|ARG1|the flood arrived
+('At the older American Falls Dam downstream', 'role', 17)|ARGM-LOC|At the older American Falls Dam downstream engineers increased discharge by less than 5 % before the flood arrived
+('engineers', 'role', 17)|ARG0|At the older American Falls Dam downstream engineers increased discharge by less than 5 % before the flood arrived
+('discharge', 'role', 17)|ARG1|At the older American Falls Dam downstream engineers increased discharge by less than 5 % before the flood arrived
+('by less than 5 %', 'role', 17)|ARG2|At the older American Falls Dam downstream engineers increased discharge by less than 5 % before the flood arrived
+('before the flood arrived', 'role', 17)|ARGM-TMP|At the older American Falls Dam downstream engineers increased discharge by less than 5 % before the flood arrived
+('That dam', 'role', 18)|ARG1|That dam held
+('tens of thousands of acres of land near the river', 'role', 18)|ARG1|tens of thousands of acres of land near the river stripped of fertile topsoil
+('of fertile topsoil', 'role', 18)|ARG2|tens of thousands of acres of land near the river stripped of fertile topsoil
+('away', 'role', 19)|ARG4|washing away riparian zones
+('riparian zones', 'role', 19)|ARG1|washing away riparian zones
+('the canyon walls', 'role', 19)|ARG1|reducing the canyon walls
+('The force of the failure', 'role', 19)|ARG0|The force of the failure destroyed the lower part of the Teton River washing away riparian zones and reducing the canyon walls
+('the lower part of the Teton River', 'role', 19)|ARG1|The force of the failure destroyed the lower part of the Teton River washing away riparian zones and reducing the canyon walls
+('washing away riparian zones and reducing the canyon walls', 'role', 19)|ARGM-ADV|The force of the failure destroyed the lower part of the Teton River washing away riparian zones and reducing the canyon walls
+('This', 'role', 20)|ARG0|This seriously impacted the native Yellowstone cutthroat trout population
+('seriously', 'role', 20)|ARGM-EXT|This seriously impacted the native Yellowstone cutthroat trout population
+"(""the stream 's ecology"", 'role', 20)"|ARG1|This seriously damaged the stream 's ecology
+('the native Yellowstone cutthroat trout population', 'role', 20)|ARG1|This seriously impacted the native Yellowstone cutthroat trout population
+('The force of the water and excessive sediment', 'role', 21)|ARG0|The force of the water and excessive sediment also damaged stream habitat in the Snake River and some tributaries as far downstream as the Fort Hall bottoms
+('also', 'role', 21)|ARGM-DIS|The force of the water and excessive sediment also damaged stream habitat in the Snake River and some tributaries as far downstream as the Fort Hall bottoms
+('stream habitat in the Snake River and some tributaries as far downstream as the Fort Hall bottoms', 'role', 21)|ARG1|The force of the water and excessive sediment also damaged stream habitat in the Snake River and some tributaries as far downstream as the Fort Hall bottoms
+('quantities of water', 'role', 22)|ARG1|quantities of water falling that had not been considered during the construction of the dam
+('not', 'role', 22)|ARGM-NEG|quantities of water that not considered during the construction of the dam
+('during the construction of the dam', 'role', 22)|ARGM-TMP|quantities of water that not considered during the construction of the dam
+('an extreme flood', 'role', 22)|ARG1|an extreme flood resulting in quantities of water falling that had not been considered during the construction of the dam
+('in quantities of water falling that had not been considered during the construction of the dam', 'role', 22)|ARG2|an extreme flood resulting in quantities of water falling that had not been considered during the construction of the dam
+('In August 1975', 'role', 22)|ARGM-TMP|In August 1975 the region experienced an extreme flood resulting in quantities of water falling that had not been considered during the construction of the dam
+('the region', 'role', 22)|ARG0|In August 1975 the region experienced an extreme flood resulting in quantities of water falling that had not been considered during the construction of the dam
+('an extreme flood resulting in quantities of water falling that had not been considered during the construction of the dam', 'role', 22)|ARG1|In August 1975 the region experienced an extreme flood resulting in quantities of water falling that had not been considered during the construction of the dam
+"(""More than a year 's worth of rain"", 'role', 23)"|ARG1|More than a year 's worth of rain fell in only 24 hours
+('in only 24 hours', 'role', 23)|ARGM-TMP|More than a year 's worth of rain fell in only 24 hours
+('the dam', 'role', 23)|ARG1|the dam failed on August 8
+('on August 8', 'role', 23)|ARGM-TMP|the dam failed on August 8
+('Early on August 8', 'role', 24)|ARGM-TMP|Early on August 8 the dam breached
+('the dam', 'role', 24)|ARG1|Early on August 8 the dam breached
+('700 million cubic meters of floodwater', 'role', 24)|ARG1|700 million cubic meters of floodwater released flooding communities and homes downstream
+('flooding communities and homes downstream', 'role', 24)|ARGM-PRD|700 million cubic meters of floodwater released flooding communities and homes downstream
+('the other 61 reservoirs', 'role', 25)|ARG0|the other 61 reservoirs releasing another six billion cubic meters of floodwater
+('in the area', 'role', 25)|ARGM-LOC|the other 61 reservoirs located in the area
+('another six billion cubic meters of floodwater', 'role', 25)|ARG1|the other 61 reservoirs releasing another six billion cubic meters of floodwater
+('After this burst', 'role', 25)|ARGM-TMP|After this burst a chain reaction began
+('a chain reaction', 'role', 25)|ARG1|After this burst a chain reaction began
+('the other 61 reservoirs located in the area', 'role', 25)|ARG1|the other 61 reservoirs located in the area collapsed releasing another six billion cubic meters of floodwater
+('releasing another six billion cubic meters of floodwater', 'role', 25)|ARGM-ADV|the other 61 reservoirs located in the area collapsed releasing another six billion cubic meters of floodwater
+('The water', 'role', 26)|ARG2|The water covered an area equal to 10 000 square kilometers
+('an area equal to 10 000 square kilometers', 'role', 26)|ARG1|The water covered an area equal to 10 000 square kilometers
+('for extreme floodwaters', 'role', 27)|ARG1|plan for extreme floodwaters
+('The failure to plan and account for extreme floodwaters', 'role', 27)|ARG1|The failure to plan and account for extreme floodwaters resulted in the immediate death of 26 000 as a result of the water itself
+('in the immediate death of 26 000 as a result of the water itself', 'role', 27)|ARG2|The failure to plan and account for extreme floodwaters resulted in the immediate death of 26 000 as a result of the water itself
+('the flood', 'role', 28)|ARG2|following the flood
+('145 000 more people', 'role', 28)|ARG1|145 000 more people died as a result of epidemics and famine following the flood
+('as a result of epidemics and famine following the flood', 'role', 28)|ARGM-CAU|145 000 more people died as a result of epidemics and famine following the flood
+('the turbine', 'role', 29)|ARG1|the turbine break apart violently
+('apart', 'role', 29)|ARG3|the turbine break apart violently
+('violently', 'role', 29)|ARGM-MNR|the turbine break apart violently
+('unsafe vibrations', 'role', 29)|ARG1|unsafe vibrations coming from one of the turbines which caused the turbine to break apart violently
+('from one of the turbines', 'role', 29)|ARG2|unsafe vibrations coming from one of the turbines which caused the turbine to break apart violently
+('unsafe vibrations coming from one of the turbines', 'role', 29)|ARG0|unsafe vibrations coming from one of the turbines which caused the turbine to break apart violently
+('the turbine to break apart violently', 'role', 29)|ARG1|unsafe vibrations coming from one of the turbines which caused the turbine to break apart violently
+('The cause of the incident', 'role', 29)|ARG1|The cause of the incident reported to be unsafe vibrations coming from one of the turbines which caused the turbine to break apart violently
+('unsafe vibrations coming from one of the turbines which caused the turbine to break apart violently', 'role', 29)|ARG2|The cause of the incident be unsafe vibrations coming from one of the turbines which caused the turbine to break apart violently
+('Water', 'role', 30)|ARG0|Water that entering the turbine
+('the turbine', 'role', 30)|ARG2|Water that entering the turbine
+('Water that had been entering the turbine', 'role', 30)|ARG2|Water that had been entering the turbine flooded the turbine hall flooding the room and levels below
+('the room and levels below', 'role', 30)|ARG1|Water that had been entering the turbine flooding the room and levels below
+('the turbine hall', 'role', 30)|ARG1|Water that had been entering the turbine flooded the turbine hall flooding the room and levels below
+('flooding the room and levels below', 'role', 30)|ARGM-ADV|Water that had been entering the turbine flooded the turbine hall flooding the room and levels below
+('The ceiling of the hall', 'role', 31)|ARG1|The ceiling of the hall also broke apart from the impact from the turbine
+('also', 'role', 31)|ARGM-DIS|The ceiling of the hall also broke apart from the impact from the turbine
+('apart', 'role', 31)|ARGM-PRD|The ceiling of the hall also broke apart from the impact from the turbine
+('from the impact from the turbine', 'role', 31)|ARGM-DIR|The ceiling of the hall also broke apart from the impact from the turbine
+('in a blackout', 'role', 32)|ARG2|resulting in a blackout
+('At this point', 'role', 32)|ARGM-TMP|At this point power failed in the power station resulting in a blackout
+('power', 'role', 32)|ARG1|At this point power failed in the power station resulting in a blackout
+('in the power station', 'role', 32)|ARGM-LOC|At this point power failed in the power station resulting in a blackout
+('resulting in a blackout', 'role', 32)|ARGM-ADV|At this point power failed in the power station resulting in a blackout
+('Gasoline', 'role', 33)|ARG0|Gasoline can cause fires
+('can', 'role', 33)|ARGM-MOD|Gasoline can cause fires
+('fires', 'role', 33)|ARG1|Gasoline can cause fires
+('Steel gates to the water intake pipes of the turbines', 'role', 34)|ARG1|Steel gates to the water intake pipes of the turbines manually closed
+('manually', 'role', 34)|ARGM-MNR|Steel gates to the water intake pipes of the turbines manually closed
+('spillways', 'role', 34)|ARG1|spillways opened to prevent more damage
+('more damage', 'role', 34)|ARG1|spillways prevent more damage
+('to prevent more damage', 'role', 34)|ARGM-PRP|spillways opened to prevent more damage
