@@ -1,0 +1,23 @@
+source,target,label,thrld
+"('aviation', 'noun')","('airplane', 'noun')",has_effect_on,0.9008945913820927
+"('fuel', 'noun')","('airplane', 'noun')",has_effect_on,0.9008945913820927
+"('fuel', 'noun')","('inlet', 'noun')",has_effect_on,0.7352471351623535
+"('type', 'noun')","('airplane', 'noun')",has_effect_on,0.8848040068124223
+"('engine', 'noun')","('airplane', 'noun')",has_effect_on,0.8488568663597107
+"('inlet', 'noun')","('fuel', 'noun')",has_effect_on,0.7151891589164734
+"('inlet', 'noun')","('pipe', 'noun')",has_effect_on,0.7811173796653748
+"('pipe', 'noun')","('inlet', 'noun')",has_effect_on,0.8229549527168274
+"('droplet', 'noun')","('fuel', 'noun')",has_effect_on,0.7112804055213928
+"('droplet', 'noun')","('inlet', 'noun')",has_effect_on,0.8092424273490906
+"('droplet', 'noun')","('pipe', 'noun')",has_effect_on,0.7040621042251587
+"('surface', 'noun')","('inlet', 'noun')",has_effect_on,0.7670756578445435
+"('spark', 'noun')","('fuel', 'noun')",has_effect_on,0.9709667563438416
+"('water', 'noun')","('vapour', 'noun')",has_effect_on,0.7065109610557556
+"('water', 'noun')","('droplet', 'noun')",has_effect_on,0.8520979881286621
+"('altitude', 'noun')","('water', 'noun')",has_effect_on,0.7032220363616943
+"('altitude', 'noun')","('vapour', 'noun')",has_effect_on,0.951560914516449
+"('altitude', 'noun')","('droplet', 'noun')",has_effect_on,0.8974030613899231
+"('temperature', 'noun')","('vapour', 'noun')",has_effect_on,0.8740780353546143
+"('temperature', 'noun')","('droplet', 'noun')",has_effect_on,0.7224494814872742
+"('vapour', 'noun')","('water', 'noun')",has_effect_on,0.809264063835144
+"('vapour', 'noun')","('droplet', 'noun')",has_effect_on,0.9449176788330078

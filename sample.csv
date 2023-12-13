@@ -1,0 +1,9 @@
+source|target|function|GPT Decision|weight
+('airplane', 'noun')|('aviation', 'noun')|isDialogRTE|Yes|0.5047957187956318
+('airplane', 'noun')|('fuel', 'noun')|isDialogRTE|Yes|0.5047957187956318
+('airplane', 'noun')|('type', 'noun')|isDialogRTE|No|0.5688557397630128
+('airplane', 'noun')|('use', 'noun')|isDialogRTE|No|0.0
+('airplane', 'noun')|('gas', 'noun')|isDialogRTE|No|0.0
+('airplane', 'noun')|('aircraft', 'noun')|isDialogRTE|Yes|0.0
+('airplane', 'noun')|('turbine', 'noun')|isDialogRTE|No|0.0
+('airplane', 'noun')|('engine', 'noun')|isRTE|No|0.7587770819664001
