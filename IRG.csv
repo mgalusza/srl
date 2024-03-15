@@ -1,23 +1,51 @@
-source,target,label
-aviation,airplane,has_effect_on
-fuel,airplane,has_effect_on
-fuel,inlet,has_effect_on
-type,airplane,has_effect_on
-engine,airplane,has_effect_on
-inlet,fuel,has_effect_on
-inlet,pipe,has_effect_on
-pipe,inlet,has_effect_on
-droplet,fuel,has_effect_on
-droplet,inlet,has_effect_on
-droplet,pipe,has_effect_on
-surface,inlet,has_effect_on
-spark,fuel,has_effect_on
-water,vapour,has_effect_on
-water,droplet,has_effect_on
-altitude,water,has_effect_on
-altitude,vapour,has_effect_on
-altitude,droplet,has_effect_on
-temperature,vapour,has_effect_on
-temperature,droplet,has_effect_on
-vapour,water,has_effect_on
-vapour,droplet,has_effect_on
+source,target,label,weight
+"('cost', 'noun')","('production', 'noun')",has_effect_on,0.7860077023506165
+"('cost', 'noun')","('business', 'noun')",has_effect_on,0.5006670951843262
+"('cost', 'noun')","('wage', 'noun')",has_effect_on,0.6302828788757324
+"('cost', 'noun')","('factor', 'noun')",has_effect_on,0.6293115019798279
+"('cost', 'noun')","('material', 'noun')",has_effect_on,0.5653701424598694
+"('cost', 'noun')","('consumer', 'noun')",has_effect_on,0.93619304895401
+"('cost', 'noun')","('price', 'noun')",has_effect_on,0.93803471326828
+"('production', 'noun')","('cost', 'noun')",has_effect_on,0.9820818703770176
+"('production', 'noun')","('consumer', 'noun')",has_effect_on,0.9820818703770176
+"('production', 'noun')","('price', 'noun')",has_effect_on,0.9820818703770176
+"('production', 'noun')","('wage', 'noun')",has_effect_on,0.3489842116832733
+"('production', 'noun')","('factor', 'noun')",has_effect_on,0.6580407023429871
+"('production', 'noun')","('material', 'noun')",has_effect_on,0.5695260167121887
+"('production', 'noun')","('business', 'noun')",has_effect_on,0.32614168524742126
+"('business', 'noun')","('production', 'noun')",has_effect_on,0.6910890936851501
+"('business', 'noun')","('cost', 'noun')",has_effect_on,0.8455108404159546
+"('business', 'noun')","('consumer', 'noun')",has_effect_on,0.8856712579727173
+"('business', 'noun')","('price', 'noun')",has_effect_on,0.8841432332992554
+"('wage', 'noun')","('business', 'noun')",has_effect_on,0.9820818703770176
+"('wage', 'noun')","('consumer', 'noun')",has_effect_on,0.9820818703770176
+"('wage', 'noun')","('price', 'noun')",has_effect_on,0.9820818703770176
+"('wage', 'noun')","('production', 'noun')",has_effect_on,0.8507411479949951
+"('wage', 'noun')","('cost', 'noun')",has_effect_on,0.9245700240135193
+"('wage', 'noun')","('factor', 'noun')",has_effect_on,0.902173638343811
+"('factor', 'noun')","('business', 'noun')",has_effect_on,0.9820818703770176
+"('factor', 'noun')","('consumer', 'noun')",has_effect_on,0.9820818703770176
+"('factor', 'noun')","('price', 'noun')",has_effect_on,0.9820818703770176
+"('factor', 'noun')","('production', 'noun')",has_effect_on,0.9213382601737976
+"('factor', 'noun')","('cost', 'noun')",has_effect_on,0.9472865462303162
+"('factor', 'noun')","('wage', 'noun')",has_effect_on,0.845719575881958
+"('factor', 'noun')","('material', 'noun')",has_effect_on,0.812954843044281
+"('material', 'noun')","('production', 'noun')",has_effect_on,0.8014068603515625
+"('material', 'noun')","('cost', 'noun')",has_effect_on,0.6547068357467651
+"('material', 'noun')","('wage', 'noun')",has_effect_on,0.6530500054359436
+"('material', 'noun')","('factor', 'noun')",has_effect_on,0.7740752696990967
+"('consumer', 'noun')","('production', 'noun')",has_effect_on,0.47464919090270996
+"('consumer', 'noun')","('business', 'noun')",has_effect_on,0.4789358973503113
+"('consumer', 'noun')","('cost', 'noun')",has_effect_on,0.624407172203064
+"('consumer', 'noun')","('price', 'noun')",has_effect_on,0.5995811223983765
+"('price', 'noun')","('production', 'noun')",has_effect_on,0.5906921625137329
+"('price', 'noun')","('business', 'noun')",has_effect_on,0.47006139159202576
+"('price', 'noun')","('cost', 'noun')",has_effect_on,0.7841681241989136
+"('price', 'noun')","('consumer', 'noun')",has_effect_on,0.9161459803581238
+"('taxis', 'noun')","('business', 'noun')",has_effect_on,0.9820818703770176
+"('taxis', 'noun')","('consumer', 'noun')",has_effect_on,0.9820818703770176
+"('taxis', 'noun')","('price', 'noun')",has_effect_on,0.9820818703770176
+"('taxis', 'noun')","('production', 'noun')",has_effect_on,0.7505226135253906
+"('taxis', 'noun')","('cost', 'noun')",has_effect_on,0.6116691827774048
+"('taxis', 'noun')","('wage', 'noun')",has_effect_on,0.41219523549079895
+"('taxis', 'noun')","('factor', 'noun')",has_effect_on,0.735454797744751
